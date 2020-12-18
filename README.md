@@ -8,13 +8,13 @@ I have also attached my course certificates with them.
   
   * **__Analysing Compressive strength of Concrete using Yellowbrick__** : Used simple regression analysis to predict the compressive strength of concrete using available dataset on kaggle.
   
-  * **__Stock Market Predictor__** : Used a custom built vanilla Artificial Nueral Network using numpy and used that to predict the Stock Prices in real time.
+  * **__Developing ANN from scratch to perform Stock Price Prediction__** : Used a custom built vanilla Artificial Nueral Network using numpy and used that to predict the Stock Prices in real time.
   
   * **__MNIST Flask application__** : Using ML and DL methods on MNIST handwritten number's dataset and create a web app for the same. 
   
   * **__House Price Prediction__** : Using Tensorflow's regresiion model for predicitng house prices based on various parameters. 
   
-  * **__Multi variable decisive Optmization of revenue through advertisement sales __** : Implementing Muliple regression model of sklearn to find the best medium of advertizement of opimal revenue through sales desicion. 
+  * **__Multi variable decisive Optmization of revenue through advertisement sales__** : Implementing Muliple regression model of sklearn to find the best medium of advertizement of opimal revenue through sales desicion. 
   
   * **__Neural Network from Scratch__** : Developed a NN from scratch and used that for implementaing plannar data classification.
   
