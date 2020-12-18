@@ -1,18 +1,15 @@
 # Python-ANN-Stock-Market-Predictor
-This is a basic stock market predictor built using artificial neural network and implemented in Python.
+This is folder contains the development of basic Artificial Neural Network made using sklearn library.
+It was done under the Coursera course whose certification is : 
 
-# Usuage
-To run the program all you need todo is
-```bash
-python ann.py
-```
-After that you'll be asked to enter the stock symbol of a company. For example lets take Google, if you want the next predicted value of stock price for Google Stocks enter the symbol as ```GOOG``` (This is the stock symbol for Google). 
+![Basic Artificial Neural Networks in Python](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~CJ2TL4WZL78C/CERTIFICATE_LANDING_PAGE~CJ2TL4WZL78C.jpeg)
+
+[Certificate Link](https://coursera.org/share/62d9b409756796a92330660428a9b4fa)
+
+---
+The custom built ANN was henceforth used to build a Stock market analysing platform, which can be found in my repository for []().
+The dashboard screenshot of the platform is as follows :- 
 
 ![Image of stock symbol](https://raw.githubusercontent.com/apoorvasingh157/Python-ANN-Stock-Market-Predictor/master/images/stock_sym.png)
 
-Wait for the program to finish. It will output a lot of gibberish thingys. Then atlast under the prediction section you'll see the predicted values of the stock symbol.
-
 ![Image of stock symbol](https://raw.githubusercontent.com/apoorvasingh157/Python-ANN-Stock-Market-Predictor/master/images/ann_out.png)
-
-
-The program fetchs the stock price for the last 5 days using an API. So entering the correct symbol name is important.
