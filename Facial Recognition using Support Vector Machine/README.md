@@ -5,7 +5,7 @@ Developed SVM from scratch to perform the Facial recognition of amaerican presid
 
 The confusion matrix is as follows :
 
-![accuracy]()
+![accuracy](https://github.com/Jash-2000/ML-DL-Projects/blob/main/Facial%20Recognition%20using%20Support%20Vector%20Machine/accuracy.JPG)
 
 ---
 
