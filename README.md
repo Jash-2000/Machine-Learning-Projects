@@ -8,7 +8,7 @@ I have also attached my course certificates with them.
   
   * **__Analysing Compressive strength of Concrete using Yellowbrick__** : Used simple regression analysis to predict the compressive strength of concrete using available dataset on kaggle.
   
-  * **__Developing ANN from scratch to perform Stock Price Prediction__** : Used a custom built vanilla Artificial Nueral Network using numpy and used that to predict the Stock Prices in real time.
+  * **__Developing ANN from scratch to perform Stock Price Prediction__** : Used a custom built vanilla Artificial Nueral Network using sklearn and used that to predict the Stock Prices in real time.
   
   * **__MNIST Flask application__** : Using ML and DL methods on MNIST handwritten number's dataset and create a web app for the same. 
   
