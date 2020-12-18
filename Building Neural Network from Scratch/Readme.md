@@ -1,6 +1,7 @@
 # Building Neural Networks from scratch
 
-This folder contains 2 notebooks :
+This folder contains 2 notebooks
+
 	* __Building your own NN__ : This is the notebook where I have implemented a L-layered ( L being an integer >= 2) neural network from scratch using numpy.
 	* __Demo__ : Here I have used the NN to classify a 2-class planar data using iris dataset.
 
