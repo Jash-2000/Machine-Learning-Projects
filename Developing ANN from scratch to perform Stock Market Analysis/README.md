@@ -6,9 +6,9 @@ The custom built ANN was henceforth used to build a Stock market analysing platf
 
 The dashboard screenshot of the platform is as follows :- 
 
-![Image of stock symbol](https://github.com/Jash-2000/ML-DL-Projects/blob/main/Developing%20ANN%20from%20scratch%20to%20perform%20Stock%20Market%20Analysis/stock_sym.png)
+![Image of stock symbol](https://github.com/Jash-2000/MLDL-Projects/blob/main/Developing%20ANN%20from%20scratch%20to%20perform%20Stock%20Market%20Analysis/stock_sym.png)
 
-![Image of stock symbol](https://github.com/Jash-2000/ML-DL-Projects/blob/main/Developing%20ANN%20from%20scratch%20to%20perform%20Stock%20Market%20Analysis/ann_out.png)
+![Image of stock symbol](https://github.com/Jash-2000/MLDL-Projects/blob/main/Developing%20ANN%20from%20scratch%20to%20perform%20Stock%20Market%20Analysis/ann_out.png)
 
 ---
 # Coursera Certificate
