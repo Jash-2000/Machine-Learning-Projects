@@ -4,6 +4,9 @@ I have also attached my course certificates with them.
 
 # The list of projects is :
 
+  * **__Network Packet Analyser__** : Implemented a network packet filtering scrit that describing if it is malicious or normal, and a category which can be any of the 10 types: Fuzzers, Analysis, Backdoors, DoS, Exploits, Generic, Reconnaissance, Shellcode and Worms
+and Normal. Test Accuracy of about 89% was achieved with UNSW dataset.
+
   * **__Facial Recognition using Support Vector Machine__** : Implemented SVM using numpy and then used it to perform a basic Facial Recognition task for a small dataset.
   
   * **__Analysing Compressive strength of Concrete using Yellowbrick__** : Used simple regression analysis to predict the compressive strength of concrete using available dataset on kaggle.
