@@ -1,5 +1,5 @@
 # Machine Learning and Deep Learning Simple(application based) Projects
-This repository contains simple practice projects done to learn ML and DL concepts. Each individiual folder contains a seperate project and readme specific to the project is present in the folder itself.
+This repository contains simple practice projects done to learn ML and DL concepts. Each individiual folder contains a seperate project and readme specific to the project is present in the folder itself. Instead of making seperate repositories for each of these, I found it convinient to push all these projects into a single repository. 
 I have also attached my course certificates with them.
 
 # The list of projects is :
