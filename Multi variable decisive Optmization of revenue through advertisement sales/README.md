@@ -3,7 +3,7 @@ Multiple Linear Regression with scikit-learn
 
 
 Course Objectives:
-In this project, I built and evaluated multiple linear regression models using Python. I used scikit-learn to calculate the regression, while using pandas for data management and seaborn for plotting. The data for this project consists of the very popular Advertising dataset to predict sales revenue based on advertising spending through media such as TV, radio, and newspaper.
+In this project, I built and evaluated multiple linear regression models using Python. I used scikit-learn to calculate the regression, while using pandas for data management and seaborn for plotting. The data for this project consists of the very popular **Advertising dataset to predict sales revenue** based on advertising spending through media such as TV, radio, and newspaper.
 
 By the end of this project, I was able to:
 
@@ -51,4 +51,4 @@ From our previous analysis of the residuals, we concluded that we need to incorp
 - Issue Date: May 2020
 - Expiration Date: This certification does not expire
 - Credential ID: 9XMUAVXTPJWJ
-- Credential URL: https://www.coursera.org/account/accomplishments/certificate/9XMUAVXTPJWJ
+- Credential URL: [https://coursera.org/share/ddfa886dedeacec43c74b29e3485ab1b](https://coursera.org/share/ddfa886dedeacec43c74b29e3485ab1b)
